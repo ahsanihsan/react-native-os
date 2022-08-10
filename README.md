@@ -11,19 +11,19 @@ This module is used by [Peel](http://www.peel.com/)
 - In your project dir:
 
 ```
-npm install react-native-os --save
+npm install @ahsanihsan/react-native-os --save
 ```
 
 **Note for iOS:** If your react-native version < 0.40 install with this tag instead:
 
 ```
-npm install react-native-os@1.0.3 --save
+npm install @ahsanihsan/react-native-os@1.0.3 --save
 ```
 
 ## Link in the native dependency
 
 ```
-react-native link react-native-os
+react-native link @ahsanihsan/react-native-os
 ```
 
 **_Step 3 Profit_**
